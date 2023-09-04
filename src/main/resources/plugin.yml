@@ -1,0 +1,21 @@
+name: PirateSiege
+version: '${project.version}'
+main: me.dogdisguise.siegeplugin.PirateSiege
+permissions:
+  PirateSiege.BesiegeDataCommand:
+    default: op
+    description: allows player to use this command
+depend:
+  - GriefPrevention
+api-version: 1.18
+commands:
+  switchteam:
+    description: switch teams during a siege
+  siegeaccept:
+    description: accept a request to switch teams
+  siegedeny:
+    description: deny a request to switch teams
+  surrender:
+    description: surrender your claim in the siege!
+  siegedata:
+    description: get information about the sige on the claim you are standing on.

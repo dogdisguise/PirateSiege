@@ -1,0 +1,13 @@
+me\dogdisguise\siegeplugin\TextMode.class
+me\dogdisguise\siegeplugin\DataManager.class
+me\dogdisguise\siegeplugin\FightTimer$1.class
+me\dogdisguise\siegeplugin\PlayerFightData.class
+me\dogdisguise\siegeplugin\FightCheckupTask.class
+me\dogdisguise\siegeplugin\SiegeConfig.class
+me\dogdisguise\siegeplugin\ClaimFightData.class
+me\dogdisguise\siegeplugin\PirateSiege.class
+me\dogdisguise\siegeplugin\GameEventHandler$1.class
+me\dogdisguise\siegeplugin\FightTimer.class
+me\dogdisguise\siegeplugin\FightData.class
+me\dogdisguise\siegeplugin\CommandHandler.class
+me\dogdisguise\siegeplugin\GameEventHandler.class

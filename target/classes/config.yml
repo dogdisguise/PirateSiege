@@ -1,0 +1,22 @@
+siege:
+  worlds: []
+  SiegeBlocks: []
+  SiegeWinnerBlocks: []
+  Times:
+    SiegeCoolDown: 60
+    SurrenderingExtendsLootingStageBy: 5
+    WinnerStageLength: 5
+    AttackStageLength: 20
+    ExtendSiegeTime:
+      SecondaryDeathAffectsTimerBy: 5
+      ClaimsAddExtraTime: true
+      MinutesAddedPer1000ClaimBlocksAdded: 0
+  EjectionSettings:
+    EjectAttackersAfterSiege: true
+    EjectDefendersDuringLooting: true
+  StopUsageDuringSiege: []
+  ExtendSiegeClaims:
+    SiegesExtend: true
+    SecondaryDefendersAddSiegeClaims: true
+    AttackersAddSiegeClaims: true
+    ClaimsWithPermsAddedToSiege: true
